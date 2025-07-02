@@ -1,0 +1,53 @@
+# Python specific compiled files and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.manifest
+*.spec
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS generated files (macOS, Windows)
+.DS_Store
+.Trashes
+Thumbs.db
+
+# IDE specific files (adjust based on your IDE, common ones included)
+.vscode/           # VS Code settings (can be more specific if you track some)
+.idea/             # JetBrains IDEs (e.g., PyCharm)
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables and secrets
+.env               # Local environment variables
+.streamlit/secrets.toml # Local Streamlit secrets (deployed secrets are handled differently)
+
+# Streamlit specific temporary files (if generated)
+streamlit_temp_files/
+
+# Logs and databases (if you add them later)
+*.log
+*.sqlite
+*.sqlite3
