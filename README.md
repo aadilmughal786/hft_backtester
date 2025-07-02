@@ -1,8 +1,8 @@
 # QuantView Backtester
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aadil-hft-backtester.streamlit.app/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/aadil-m/hft_backtester?color=green)](https://github.com/aadil-m/hft_backtester)
-[![GitHub stars](https://img.shields.io/github/stars/aadil-m/hft_backtester?style=social)](https://github.com/aadil-m/hft_backtester)
+[![GitHub last commit](https://img.shields.io/github/last-commit/aadil-m/hft-backtester?color=green)](https://github.com/aadil-m/hft-backtester)
+[![GitHub stars](https://img.shields.io/github/stars/aadil-m/hft-backtester?style=social)](https://github.com/aadil-m/hft-backtester)
 
 An interactive web application built with [Streamlit](https://streamlit.io/) to backtest a Simple Moving Average (SMA) Crossover trading strategy on historical stock data. This project emphasizes modular design, best development practices, and interactive data visualization.
 
@@ -39,8 +39,8 @@ Follow these steps to set up and run the application on your local machine.
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/aadil-m/hft_backtester.git](https://github.com/aadil-m/hft_backtester.git)
-    cd hft_backtester
+    git clone [https://github.com/aadil-m/hft-backtester.git](https://github.com/aadil-m/hft-backtester.git)
+    cd hft-backtester
     ```
 
 2.  **Create and activate a virtual environment:**
